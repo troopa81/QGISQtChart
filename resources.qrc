@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/chart" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
